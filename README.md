@@ -1,4 +1,4 @@
-# Project Title
+# DegenTokenFinal
 This project is used to deploy the Degen Token into the Avalanche Fuji Testnet. The deployed contract can then be seen Snowtrace to check all of its transactions.
 
 # Description
